@@ -1,4 +1,4 @@
-# (Titlu)
+# Rhythm MIDI Sequence
 (Scurtă descriere)
 
 ## (Instalare)
