@@ -22,7 +22,7 @@ Selectare numar de note dorite:
 ![](Number of Notes.gif)
 
 Mergi la a X-a nota:
-![](Go to.gif)
+![](Go_to.gif)
 
 Seteaza tempo si frecventa metronomului:
 ![](Set Metro.gif)
