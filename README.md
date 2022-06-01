@@ -12,7 +12,7 @@ Play:
 ![](name-of-giphy.gif)
 
 Reset:
-![](name-of-giphy.gif)
+![](Zoom.gif)
 
 Zoom:
 ![](name-of-giphy.gif)
