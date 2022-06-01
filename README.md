@@ -9,6 +9,7 @@ Dupa ce se instaleaza programul Cycling Max, tot ce trebuie facut este sa descar
 Selectare semnal dorit:
 
 Play:
+ ![ Alt text](Play Metro. gif) / ! [](Play Metro. gif)
 
 Reset:
 
