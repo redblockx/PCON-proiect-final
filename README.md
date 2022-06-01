@@ -7,7 +7,7 @@ Dupa ce se instaleaza programul Cycling Max, tot ce trebuie facut este sa descar
 
 ## (Utilizare)
 Selectare semnal dorit:
-![](Select signal.gif)
+![](Select_signal.gif)
 
 Play:
 ![](Play.gif)
@@ -19,16 +19,16 @@ Zoom:
 ![](Zoom.gif)
 
 Selectare numar de note dorite:
-![](Number of Notes.gif)
+![](Number_of_Notes.gif)
 
 Mergi la a X-a nota:
 ![](Go_to.gif)
 
 Seteaza tempo si frecventa metronomului:
-![](Set Metro.gif)
+![](Set_Metro.gif)
 
 Porneste Metronom:
-![](Play Metro.gif)
+![](Play_Metro.gif)
 
 ## (Istoric)
 
