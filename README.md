@@ -6,7 +6,22 @@ pe care le poate canta la tempo ul dorit, cat de repede sau incet doreste.
 Dupa ce se instaleaza programul Cycling Max, tot ce trebuie facut este sa descarcati patch-ul "proiect_MAX_ver 1.0" si sa-l porniti.
 
 ## (Utilizare)
-...
+Selectare semnal dorit:
+
+Play:
+
+Reset:
+
+Zoom:
+
+Selectare numar de note dorite:
+
+Mergi la a X-a nota:
+
+Seteaza tempo si frecventa metronomului:
+
+Porneste Metronom:
+
 
 ## (Istoric)
 
