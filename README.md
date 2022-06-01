@@ -19,29 +19,6 @@ Dupa ce se instaleaza programul Cycling Max, tot ce trebuie facut este sa descar
 ## (Link-uri)
 ...
 
-# Dezvoltarea proiectului
-
-Pentru început:
-
-1. Creează-ți cont pe Github
-2. Download și install [Github Desktop](https://desktop.github.com/)
-3. Citește [acest ghid](https://charlesmartin.com.au/blog/2020/08/09/student-project-repository) și ține la îndemână [Markdown Cheat Sheet](https://www.markdownguide.org/cheat-sheet).
-
-Apoi, procesul este următorul (inspirat de [aici](https://cs.anu.edu.au/courses/comp1720/deliverables/05-major-project/#submission-process)):
-
-1. *fork* al acestui template către propriul tău cont de Github
-
-![](assets/fork.gif)
-
-_(dacă preferi cumva ca repo-ul să nu fie vizibil de către public, îl poți seta ca Private din Settings - "Change visibility". Atunci trebuie să mă adaugi drept colaborator, ca eu să am acces.)_
-
-2. *clone* al repo-ului din Github Desktop pentru a-l downloada local
-
-![](assets/clone.gif)
-
-3. *commit* și *push* pe măsură ce lucrezi la proiect. Ultima versiune push-ată pe server înainte de deadline va conta pentru evaluare.
-
-![](assets/commit.gif)
 
 ## Elemente obligatorii
 
