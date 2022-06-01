@@ -1,8 +1,9 @@
 # Rhythm MIDI Sequence
-(Scurtă descriere)
+Acest patch permite utilizatorului sa introduca o secventa de note,
+pe care le poate canta la tempo ul dorit, cat de repede sau incet doreste
 
 ## (Instalare)
-...
+Dupa ce se instaleaza programul Cycling Max, tot ce trebuie facut este sa descarcati patch-ul si sa l porniti.
 
 ## (Utilizare)
 ...
