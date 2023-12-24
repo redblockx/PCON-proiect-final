@@ -36,6 +36,5 @@ Porneste Metronom:
 
 ## Exemple cu patch-ul in actiune
 
-https://drive.google.com/file/d/1zPMElwgoH7_4PJUpB0HRgnYuxtVDI6n8/view?usp=sharing
 https://drive.google.com/file/d/15_H9PFMjFlsA2ns5vw_jC-2FSmj49jwC/view?usp=sharing
 
