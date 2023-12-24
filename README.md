@@ -1,12 +1,11 @@
 # Rhythm MIDI Sequence
-Acest patch permite utilizatorului sa introduca o secventa de note,
-pe care le poate canta la tempo ul dorit, cat de repede sau incet doreste.
+This patch allows the user to input a sequence of notes that they can play at their desired tempo, as fast or slow as they wish.
 
 ## Instalare
-Dupa ce se instaleaza programul Cycling Max, tot ce trebuie facut este sa descarcati patch-ul "proiect_MAX_ver 1.0" si sa-l porniti.
+After installing the Cycling Max program, all you need to do is download the patch 'project_MAX_ver 1.0' and launch it.
 
 ## Utilizare
-Selectare semnal dorit:
+Select signal:
 ![](Select_signal.gif)
 
 Play:
@@ -18,23 +17,23 @@ Reset:
 Zoom:
 ![](Zoom.gif)
 
-Selectare numar de note dorite:
+Set number of notes:
 ![](Number_of_Notes.gif)
 
-Mergi la a X-a nota:
+Go to X note:
 ![](Go_to.gif)
 
-Seteaza tempo si frecventa metronomului:
+Set tempo and frequency metro:
 ![](Set_Metro.gif)
 
-Porneste Metronom:
+Turn on Metronome:
 ![](Play_Metro.gif)
 
-## Istoric
+## History
 
 (01.06.2022) proiect_MAX_ver 1.0
 
-## Exemple cu patch-ul in actiune
+## Ptach Example
 
 https://drive.google.com/file/d/15_H9PFMjFlsA2ns5vw_jC-2FSmj49jwC/view?usp=sharing
 
