@@ -1,10 +1,10 @@
 # Rhythm MIDI Sequence
 This patch allows the user to input a sequence of notes that they can play at their desired tempo, as fast or slow as they wish.
 
-## Instalare
+## Installation
 After installing the Cycling Max program, all you need to do is download the patch 'project_MAX_ver 1.0' and launch it.
 
-## Utilizare
+## How to use:
 Select signal:
 ![](Select_signal.gif)
 
